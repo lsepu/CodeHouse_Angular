@@ -1,0 +1,17 @@
+.c_phone {
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    padding: 62px 0 61px;
+    text-align: center;
+    font-size: 65px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #fdc903;
+}
+
+.container_12 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}       
